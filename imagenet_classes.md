@@ -1,7 +1,5 @@
 <html>
 <h1>IMAGENET 1000 Class List</h1>
-<p>This is used by most pretrained models included in <strong>WekaDeeplearning4j</strong>.</p>
-<p><a href="../../../examples/inference/#class-map-lookup-tables">Back to Inference Tutorial</a></p>
 <table>
 <thead>
 <tr>
