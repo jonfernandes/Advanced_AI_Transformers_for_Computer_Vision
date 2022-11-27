@@ -1,5 +1,5 @@
 <html>
-<h1>IMAGENET 1000 Class List</h1>
+<h1>Imagenet 1000 classes</h1>
 <table>
 <thead>
 <tr>
